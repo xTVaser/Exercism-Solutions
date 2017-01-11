@@ -1,0 +1,4 @@
+resolver: lts-7.9
+
+extra-deps:
+- strings-1.1
